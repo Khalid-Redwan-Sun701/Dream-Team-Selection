@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # 🏏 Dream Team
 
 Welcome to **Dream Team**, your go-to application for selecting and managing your ideal cricket players! Dive into the world of cricket and build your dream team effortlessly.
