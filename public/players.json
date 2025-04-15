@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Rohit Sharma",
+    "country": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "N/A",
+    "price": 1600000,
+    "image": "https://i.ibb.co/smZTmMy/Rohit-sharma.jpg"
+  },
+  {
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "N/A",
+    "price": 1550000,
+    "image": "https://i.ibb.co/g7Jy0nW/David-Warner.jpg"
+  },
+  {
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "N/A",
+    "price": 1580000,
+    "image": "https://i.ibb.co/mF8B9zR/virat-kohli.jpg"
+  },
+  {
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "N/A",
+    "price": 1480000,
+    "image": "https://i.ibb.co/W3Jy29C/Babar-Azam.jpg"
+  },
+  {
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "N/A",
+    "price": 1450000,
+    "image": "https://i.ibb.co/MkQsxnK/Kane-Williamson.jpg"
+  },
+  {
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": 1520000,
+    "image": "https://i.ibb.co/nCnLQfS/Ben-Stokes.jpg"
+  },
+  {
+    "name": "Hardik Pandya",
+    "country": "India",
+    "role": "All-Rounder",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": 1500000,
+    "image": "https://i.ibb.co/bK7G684/Hardik-Pandya.jpg"
+  },
+  {
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "role": "Wicketkeeper-Batsman",
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "N/A",
+    "price": 1450000,
+    "image": "https://i.ibb.co/F37xyMF/Quinton-de-Kock.jpg"
+  },
+  {
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": 1450000,
+    "image": "https://i.ibb.co/vHNPC7k/Pat-Cummins.jpg"
+  },
+  {
+    "name": "Shaheen Afridi",
+    "country": "Pakistan",
+    "role": "Bowler",
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Left-Arm Fast",
+    "price": 1400000,
+    "image": "https://i.ibb.co/h1KkNqz/Shaheen-Afridi.jpg"
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Fast",
+    "price": 1480000,
+    "image": "https://i.ibb.co/vkYGZ9X/Jasprit-Bumrah.jpg"
+  },
+  {
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm Leg Spin",
+    "price": 1400000,
+    "image": "https://i.ibb.co/DpqQz1Z/Rashid-Khan.jpg"
+  }
+]
